@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    TerraX Extension - Update Manifest
+    
+    Este arquivo informa ao Chrome qual é a versão mais recente da extensão.
+    O Chrome verifica este arquivo periodicamente (a cada poucas horas).
+    
+    IMPORTANTE: Atualize este arquivo ANTES de disponibilizar nova versão!
+-->
+<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+    <app appid="nghjloapbjimaoolfhoaimncdgohfkgd">
+        <updatecheck 
+            codebase="https://zerokoul.github.io/terrax-updates/terrax-autoclicker.crx" 
+            version="1.0.0" 
+        />
+    </app>
+</gupdate>
+
+<!--
+    INSTRUÇÕES:
+    
+    1. Substitua "SEU-EXTENSION-ID-AQUI" pelo ID real da extensão
+       (encontre em chrome://extensions com modo desenvolvedor ativo)
+    
+    2. Substitua "SEU-DOMINIO.com" pelo seu domínio real
+    
+    3. Quando lançar uma nova versão:
+       - Atualize a version no manifest.json (ex: 1.0.1)
+       - Atualize a version AQUI no update.xml (ex: 1.0.1)
+       - Gere novo arquivo .crx
+       - Faça upload do .crx e update.xml para seu servidor
+-->
