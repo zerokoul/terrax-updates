@@ -1,6 +1,6 @@
 {
-    "version": "1.0.10",
-    "releaseDate": "2026-01-31",
+    "version": "1.0.11",
+    "releaseDate": "2026-02-01",
     "downloadUrl": "https://zerokoul.github.io/terrax-updates/terrax-autoclicker.zip",
-    "changelog": "Correção de Anti-AFK e melhorias de performance"
+    "changelog": "Correção para sistema de pesca em diferentes monitores e melhorias de performance"
 }
