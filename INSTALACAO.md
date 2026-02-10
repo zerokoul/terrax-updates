@@ -76,3 +76,78 @@ Para atualizar:
 ## 📞 Suporte
 
 Dúvidas? Entre em contato com o suporte.
+
+## English
+TerraX AutoClicker - Installation Guide
+📥 Download
+Download the file terrax-autoclicker.zip from this repository.
+
+🔧 Installation
+Step 1: Extract files
+Locate the downloaded terrax-autoclicker.zip file
+
+Right-click → "Extract All"
+
+Choose an easy-to-access folder (e.g., C:\TerraX)
+
+Step 2: Load into Chrome
+Open Chrome and type in the address bar: chrome://extensions
+
+Enable "Developer Mode" (toggle in the top right corner)
+
+Click "Load unpacked"
+
+Select the folder where you extracted the files
+
+The extension will be installed! ✅
+
+🔑 Activation
+Click the extension icon (⛏️) in the Chrome toolbar
+
+Enter your license key in the indicated field
+
+Click "Activate"
+
+Done! The extension is active.
+
+🎮 How to Use
+Open the TerraX website and click the extension icon. You will see the available modules:
+
+Module	Description
+⛏️ Mining	Automatic mining clicks
+🎣 Fishing	Plays the fishing mini-game automatically
+⚔️ Dungeon	Automatic dungeon battles
+Enable/disable each module using the toggles.
+
+🔄 Updates
+When a new version is available, you will see a green banner in the extension popup with a "Download" button.
+
+To update:
+
+Download the new .zip file
+
+Extract it into the same folder (replacing the files)
+
+Go to chrome://extensions
+
+Click the 🔄 (reload) button for the TerraX extension
+
+❓ Common Issues
+"The extension was disabled"
+Go to chrome://extensions
+
+Enable the TerraX extension toggle
+
+"License expired" or "License not found"
+Check if you entered the key correctly
+
+Contact support to renew your license
+
+Modules not working
+Make sure you are on the TerraX website
+
+Reload the game page
+
+📞 Support
+Questions? Contact support.
+
