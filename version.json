@@ -1,6 +1,6 @@
 {
-    "version": "1.0.20",
-    "releaseDate": "2026-04-06",
+    "version": "1.0.21",
+    "releaseDate": "2026-04-07",
     "downloadUrl": "https://zerokoul.github.io/terrax-updates/terrax-autoclicker.zip",
-    "changelog": "Correção para sistema de coleta de ovos"
+    "changelog": "Correção para sistema de coleta de ovos e adicionado sistema de coleta de minérios"
 }
