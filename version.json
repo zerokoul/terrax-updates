@@ -1,6 +1,6 @@
 {
-    "version": "1.0.23",
+    "version": "1.0.25",
     "releaseDate": "2026-04-10",
     "downloadUrl": "https://zerokoul.github.io/terrax-updates/terrax-autoclicker.zip",
-    "changelog": "Correcao de bug na pesca e coleta de baus"
+    "changelog": "Melhoria no anti-afk (mmo-lobby) e correcao na pesca"
 }
