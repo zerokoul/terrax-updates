@@ -1,6 +1,6 @@
 {
-    "version": "1.0.25",
-    "releaseDate": "2026-04-10",
+    "version": "1.0.26",
+    "releaseDate": "2026-04-11",
     "downloadUrl": "https://zerokoul.github.io/terrax-updates/terrax-autoclicker.zip",
-    "changelog": "Melhoria no anti-afk (mmo-lobby) e correcao na pesca"
+    "changelog": "corrigido problemas de coordenadas nos modulos egg_collect e map_miner"
 }
