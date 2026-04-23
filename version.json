@@ -1,6 +1,6 @@
 {
-    "version": "1.0.26",
-    "releaseDate": "2026-04-11",
+    "version": "1.0.27",
+    "releaseDate": "2026-04-23",
     "downloadUrl": "https://zerokoul.github.io/terrax-updates/terrax-autoclicker.zip",
-    "changelog": "corrigido problemas de coordenadas nos modulos egg_collect e map_miner"
+    "changelog": "correcao de bugs e clicks em alvos na pesca"
 }
