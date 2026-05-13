@@ -1,6 +1,6 @@
 {
-    "version": "1.0.28",
-    "releaseDate": "2026-05-09",
+    "version": "1.0.29",
+    "releaseDate": "2026-05-13",
     "downloadUrl": "https://zerokoul.github.io/terrax-updates/terrax-autoclicker.zip",
-    "changelog": "correcao de bugs e clicks em alvos na pesca"
+    "changelog": "correcao de bugs e adcionado mineração na caverna"
 }
