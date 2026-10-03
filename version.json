@@ -1,6 +1,6 @@
 {
-    "version": "1.0.31",
-    "releaseDate": "2026-09-14",
+    "version": "1.0.32",
+    "releaseDate": "2026-10-03",
     "downloadUrl": "https://zerokoul.github.io/terrax-updates/terrax-autoclicker.zip",
-    "changelog": "HUD com atalhos e adicionado modulo de farm de monstros"
+    "changelog": "Adicionado novo modulo para evento de Halloween"
 }
