@@ -1,6 +1,6 @@
 {
-    "version": "1.0.32",
+    "version": "1.0.33",
     "releaseDate": "2026-10-03",
     "downloadUrl": "https://zerokoul.github.io/terrax-updates/terrax-autoclicker.zip",
-    "changelog": "Adicionado novo modulo para evento de Halloween"
+    "changelog": "Correção de bugs"
 }
